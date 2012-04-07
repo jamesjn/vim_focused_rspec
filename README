@@ -1,0 +1,9 @@
+To install:
+
+Move bin/vim_focused_rspec.rb to your ~/.vim/bin directory
+Copy contents of .vimrc to your .vimrc file
+
+To use:
+
+Push gt in a spec to run the spec
+Push gT to run the whole spec file
